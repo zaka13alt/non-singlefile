@@ -3,7 +3,7 @@ set -e
 
 # ===== Configuration =====
 
-REPO_URL="https://github.com/zaka13alt/history.git"
+REPO_URL="https://github.com/zaka13alt/non-singlefile.git"
 
 INSTALL_DIR="/opt/myapp"
 
