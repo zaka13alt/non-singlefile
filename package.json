@@ -1,0 +1,27 @@
+{
+  "name": "history",
+  "version": "1.0.0",
+  "description": "the best UBG site. dead simple and fits in a SVG Features Education proxy wisp server selector games and more will come soon!",
+  "main": "1e154567.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaka13alt/history.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zaka13alt/history/issues"
+  },
+  "homepage": "https://github.com/zaka13alt/history#readme",
+  "devDependencies": {
+    "playwright": "^1.62.1"
+  }
+}
